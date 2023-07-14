@@ -1,0 +1,109 @@
+body{
+    background-color: aquamarine;
+}
+.Principal{
+    width: 100%;
+    background-color: aquamarine;
+    margin-top: 10px;
+    text-align: center;
+    border: 3px solid #000;
+}
+.Ejercicio1 {
+    width: 300px;
+    padding: 20px;
+    background-color: #f1f1f1;
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+    border: 5px solid #000;
+}
+
+input {
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.Ejercicio2 {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border: 5px solid #000;
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.Ejercicio3 {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border: 5px solid #000;
+    text-align: center;
+}
+#output {
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.Ejercicio4 {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border: 5px solid #000;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+p {
+    font-weight: bold;
+}
